@@ -1,12 +1,13 @@
 import React from 'react'
 import './App.css';
-import Templet from './Components/Templets/templet';
+import HomePage from './Pages/HomePage';
+
 
 function App() {
   return (
     <div className="App">
       
-      <Templet></Templet>
+      <HomePage></HomePage>
     </div>
   );
 }

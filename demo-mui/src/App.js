@@ -1,7 +1,7 @@
 
 import './App.css';
 import React from 'react'
-import indexB from './Components/Button/indexB';
+import IndexB from './Components/Button/IndexB';
 
 function App() {
 
@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
 
-        <indexB></indexB>
+   <IndexB></IndexB>
 
      
     </div>

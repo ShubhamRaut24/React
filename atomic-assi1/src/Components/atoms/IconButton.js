@@ -1,6 +1,6 @@
 import React from 'react'
 
-function IconButton() {
+function IconButton(props) {
     return (
         <div>
             
